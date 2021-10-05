@@ -1,0 +1,4 @@
+def welcome_message():
+  print("Hey there, welcome to my profile!!")
+  
+welcome_message()
